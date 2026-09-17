@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
+runs/
+.commandcode/
+*.save
+
+# 仅公开 README，模型与代码暂不发布
+/models/
+/vehicle_license_ocr/
+/examples/
+/docs/
+/requirements.txt
